@@ -6,6 +6,9 @@ This Excel workbook contains an interactive sales dashboard built on three years
 
 ---
 
+
+https://github.com/user-attachments/assets/8fca3d63-bb74-4b97-8a0a-262a5634e09d
+
 ## Workbook Structure
 
 The file is organised into three sheets:
